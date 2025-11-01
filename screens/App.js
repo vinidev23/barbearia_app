@@ -2,7 +2,7 @@ import { NavigationContainer, navigationContainer } from '@react-navigation/nati
 import { createNativeStackNavigation } from '@react-navigation/native-stack';
 import WelcomeScreen from './WelcomeScreen';
 import NameScreen from './NameScreen';
-import ServiceScreen from './screens/ServiceScreen';
+import ServiceScreen from './ServiceScreen';
 import ScheduleScreen from './screens/ScheduleScreen';
 import ConfirmationScreen from './screens/ConfirmationScreen';
 
