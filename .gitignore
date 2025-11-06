@@ -4,3 +4,4 @@ package-lock.json
 package.json
 expo-env.d.ts
 db.js
+app.json
