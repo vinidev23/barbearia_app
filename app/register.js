@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { View, Text, TextInput, TouchableOpacity, Alert } from "react-native";
-import db, { initDB } from "./lib/db";
+import db, { initDB } from "./lib/db.js";
 import * as Crypto from "expo-crypto";
 import { useRouter } from "expo-router";
 
